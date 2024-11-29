@@ -26,6 +26,16 @@ My toolkit includes, but is not limited to:
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="BootStrp 5" alt="BootStrap 5" width="50" height="50" />&nbsp;
 </div>
 
+### Database: 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="50" height="50" />&nbsp;
+</div>
+
+### Api Testing: 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman Api" alt="Postman api" width="50" height="50" />&nbsp;
+</div>
+
 ### Tools & Platforms: 
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
