@@ -1,8 +1,5 @@
 
 
-<div>
- <img alt="Profile Banner" src="https://media.licdn.com/dms/image/v2/D5616AQElKZ2wWZgRnA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1710519726222?e=1738195200&v=beta&t=L93BY95VFVwFHNft25QJYUg09ZSp1ql2g76PNd2BX8k">
-</div>
 
 # Hey there, it's a pleasure to meet you! 👋
 
@@ -24,7 +21,7 @@ My toolkit includes, but is not limited to:
 
 </div>
 
-### Frameworks/Libraries: 
+### Frameworks: 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="BootStrp 5" alt="BootStrap 5" width="50" height="50" />&nbsp;
 </div>
