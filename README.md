@@ -1,8 +1,8 @@
 
 ### About Me
 👋 Hi there! I’m an aspiring Full Stack Developer and a Computer Science Engineering student.
-💻🚀 focused on building scalable and efficient web applications.
-🤝🌍 Let’s connect and collaborate on exciting projects! 
+-💻🚀 focused on building scalable and efficient web applications.
+-🤝🌍 Let’s connect and collaborate on exciting projects! 
 
 ---
 
@@ -20,7 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp; 
 </div>
 
-## Back-End & Database
+## Database
 <div> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp; 
 </div>
@@ -39,11 +39,10 @@
 </div>
 
 ---
-
+<br>
 ## 🌐 Check out my portfolio:  
 **[My Portfolio](https://meiyalazhan.github.io/Portfolio/)**
 
----
 
 ## 🌐 Connect with Me
 <div id="badges" align="center">
