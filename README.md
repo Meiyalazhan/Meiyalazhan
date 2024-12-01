@@ -1,8 +1,9 @@
 
 ### About Me
 👋 Hi there! I’m an aspiring Full Stack Developer and a Computer Science Engineering student.
-- 💻🚀 focused on building scalable and efficient web applications.
-- 🤝🌍 Let’s connect and collaborate on exciting projects! 
+- Constantly utilizing available resources to enhance my skills and knowledge 📚💡
+- Eager to learn about new information and keep up with the latest trends in technology 🌱✨
+- Let’s connect and collaborate on exciting projects! 🤝🌍
 
 ---
 
