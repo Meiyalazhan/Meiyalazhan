@@ -42,12 +42,12 @@ My toolkit includes, but is not limited to:
 </div>
 
 ---
-<br>
-### 🌐 Check out my portfolio:  
+
+## 🌐 Check out my portfolio:  
 **[My Portfolio](https://meiyalazhan.github.io/Portfolio/)**
 
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/Meiyalazhank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
